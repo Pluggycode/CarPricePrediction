@@ -13,5 +13,5 @@ In vs code open the terminal.
 > once all the necessary packages are installed run the "app.py" file. if their is no error.
 > run streamlit run app.py in ur terminal
 
- thank you !
+ thank you 
  love coding with Pluggy....
