@@ -1,8 +1,8 @@
 # CarPricePrediction
 using Machine learning and deepLearning
 
-first ly open the commad promt in ur pc.
-open the folder of this project
+...first ly open the commad promt in ur pc...
+...open the folder of this project...
 the type code . in commad prompt.
 then it will open the folder in ur vs code.
 In vs code open the terminal.
